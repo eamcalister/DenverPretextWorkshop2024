@@ -9,5 +9,7 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-name.ptx" />
+  <xi:include href="NewSection.ptx" />
+
 
 </chapter>
